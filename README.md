@@ -1,5 +1,5 @@
 ![MasterHead](https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif)
-<h1 align="center">Hi 👋, I'm Muhammad Ahmed Abbasi</h1>
+<h1 align="center">Muhammad Ahmed Abbasi</h1>
 <h3 align="center">A passionate Algorithm Engineer from Pakistan, currently working in China. I am a skilled professional with a diverse background in Pattern Classification, Signal Processing, Machine Learning, and Deep Learning.</h3>
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-80218989,width-1015,height-761,imgsize-820943,resizemode-8/prime/technology-and-startups/five-ways-to-make-ai-a-greater-force-for-good-despite-big-techs-excessive-control-over-its-future.jpg">
 - 🔭 I’m currently working on **Identification of Anxiety, stress, schizophrenia using EEG and Training the model using CNN and Attention models**
